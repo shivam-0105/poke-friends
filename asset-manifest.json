@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/poke-friends/static/css/main.5a07b5c5.chunk.css",
+    "main.js": "/poke-friends/static/js/main.7fddb281.chunk.js",
+    "main.js.map": "/poke-friends/static/js/main.7fddb281.chunk.js.map",
+    "runtime-main.js": "/poke-friends/static/js/runtime-main.181f4815.js",
+    "runtime-main.js.map": "/poke-friends/static/js/runtime-main.181f4815.js.map",
+    "static/css/2.31461e4f.chunk.css": "/poke-friends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.15f981d8.chunk.js": "/poke-friends/static/js/2.15f981d8.chunk.js",
+    "static/js/2.15f981d8.chunk.js.map": "/poke-friends/static/js/2.15f981d8.chunk.js.map",
+    "static/js/3.fde440f3.chunk.js": "/poke-friends/static/js/3.fde440f3.chunk.js",
+    "static/js/3.fde440f3.chunk.js.map": "/poke-friends/static/js/3.fde440f3.chunk.js.map",
+    "index.html": "/poke-friends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/poke-friends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5a07b5c5.chunk.css.map": "/poke-friends/static/css/main.5a07b5c5.chunk.css.map",
+    "static/js/2.15f981d8.chunk.js.LICENSE.txt": "/poke-friends/static/js/2.15f981d8.chunk.js.LICENSE.txt",
+    "static/media/moon.22fb56db.svg": "/poke-friends/static/media/moon.22fb56db.svg",
+    "static/media/sun.e99ca5b7.svg": "/poke-friends/static/media/sun.e99ca5b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.181f4815.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.15f981d8.chunk.js",
+    "static/css/main.5a07b5c5.chunk.css",
+    "static/js/main.7fddb281.chunk.js"
+  ]
+}
